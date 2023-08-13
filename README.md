@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hi, I'm David Maldonado 👋
 
-<!--
-**Gorossy/Gorossy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Experienced Backend Developer | Python | Django | REST API | SOAP API | Test Automation | Code Review | Startup CTO | Agile Methodologies
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I'm a technology enthusiast with robust experience in crafting scalable and solid solutions. Passionate about creating applications that make a difference, I have a proven track record in leading successful projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Key Achievements
+- Co-founder and CTO of Ucover, a winning startup among 220 companies in an initiative by Universidad Simón Bolívar and MacondoLab.
+- Completed multiple freelance jobs on Upwork, designing and implementing high-quality solutions for various clients. Contributions include the design of high-performance endpoints and the implementation of advanced design patterns.
+
+### 🛠️ Technologies and Tools
+- **Languages**: Python, Django
+- **APIs**: REST, SOAP
+- **Testing**: Pytest
+- **Design Patterns**: Dependency Injection, Factory, Facade
+- **Architecture**: Hexagonal (Ports and Adapters)
+- **Methodologies**: SCRUM, Agile
+
+### 🌱 Building and Learning
+I am currently looking for new opportunities and challenges to continue growing professionally. If you'd like to know more about my story, projects, or simply want to exchange ideas, please feel free to connect with me.
+
+### 📫 Contact Me
+- LinkedIn: [your-linkedin-link]([https://linkedin.com/in/your-linkedin-link](https://www.linkedin.com/in/david-maldonado-491643213/))
+- Email: gorossy07@gmail.com
+
+---
+
+⭐️ Thank you for visiting my profile; I hope you enjoy exploring my projects!
