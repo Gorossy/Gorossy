@@ -20,7 +20,7 @@ Welcome to my GitHub! I'm a technology enthusiast with robust experience in craf
 I am currently looking for new opportunities and challenges to continue growing professionally. If you'd like to know more about my story, projects, or simply want to exchange ideas, please feel free to connect with me.
 
 ### 📫 Contact Me
-- LinkedIn: [your-linkedin-link]([https://linkedin.com/in/your-linkedin-link](https://www.linkedin.com/in/david-maldonado-491643213/))
+- LinkedIn: [David Maldonado on LinkedIn](https://www.linkedin.com/in/david-maldonado-491643213/)
 - Email: gorossy07@gmail.com
 
 ---
