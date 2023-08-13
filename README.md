@@ -23,6 +23,7 @@ I am currently looking for new opportunities and challenges to continue growing 
 ### 📫 Contact Me
 - LinkedIn: [David Maldonado on LinkedIn](https://www.linkedin.com/in/david-maldonado-491643213/)
 - Email: gorossy07@gmail.com
+- CV: [Profile](https://drive.google.com/file/d/1vnpojUgKLNtu_DS6hUKqnChR0OTo6AJb/view?usp=sharing)
 
 ---
 
