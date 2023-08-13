@@ -1,3 +1,4 @@
+![Your Company Banner]([https://github.com/yourusername/yourrepository/issues/issue-number/yourimage.png](https://user-images.githubusercontent.com/49298926/260277996-a8298f3a-d09f-4f61-8d85-29f5bc21599b.png))
 # Hi, I'm David Maldonado 👋
 
 ## Experienced Backend Developer | Python | Django | REST API | SOAP API | Test Automation | Code Review | Startup CTO | Agile Methodologies
