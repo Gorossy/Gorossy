@@ -4,7 +4,7 @@
 
 ## AI-Assisted Full Stack Developer | Senior Backend & Infrastructure Engineer | Python · Django · FastAPI | Cloud Infrastructure | Blockchain | AI/ML Infrastructure | GPU Computing | Bittensor | Docker | Kubernetes | Top Rated Plus Upwork
 
-Welcome to my GitHub! I'm a Systems and Computer Engineer based in **Bogotá, Colombia**, with 4+ years of experience building scalable backend systems, cloud infrastructure, and AI-integrated applications across tourism, insurance, fintech, e-commerce, marketing and blockchain industries.
+Welcome to my GitHub! I'm a Systems and Computer Engineer based in **Bogotá, Colombia**, with 4+ years of experience building scalable backend systems, cloud infrastructure, and AI-integrated applications across tourism, insurance, real estate, video streaming, marketing, fintech, e-commerce messaging/notifications, beauty/salon tech, startups, and blockchain/crypto (Bittensor).
 
 ### 🚀 Key Achievements
  
