@@ -74,7 +74,7 @@ Multi-tenant booking system for salons and barbershops with real-time availabili
 ### 🌱 Open Source Contributions
  
 - **Bittensor Subnet 27 (SN27)**: Multiple approved PRs to core infrastructure — validator-miner communication, template system, and feature development.
-- **Enterprise GPU Templates**: 8+ containerized environments published to Docker Hub (PyTorch, Miniconda, Jupyter, Ollama, ComfyUI, vLLM, Automatic1111) [LINK](https://hub.docker.com/repositories/dmaldonadob) .
+- **Enterprise GPU Templates**: 8+ containerized environments published to Docker Hub (PyTorch, Miniconda, Jupyter, Ollama, ComfyUI, vLLM, Automatic1111) [LINK](https://hub.docker.com/repositories/dmaldonadob)
 - **LLM WebUI Templates**: Multi-service Docker images bundling vLLM + Open WebUI for DeepSeek R1, Qwen3 8B/32B and other frontier models — tested on Hyperstack GPU infrastructure.
 - **Technical Documentation**: Authored release notes and deployment docs for SN27 subnet versions v2.2.0 through v2.3.2.
  
@@ -83,7 +83,7 @@ Multi-tenant booking system for salons and barbershops with real-time availabili
 ### 📫 Let's Connect
  
 - **LinkedIn**: [David Maldonado](https://www.linkedin.com/in/dmaldonadob/)
-- **Upwork**: [Top Rated Plus Profile](https://www.upwork.com/freelancers/~01f71d13c4db8160c6)
+- **Upwork**: [Top Rated Plus Profile](https://www.upwork.com/freelancers/~018caac69a88b04f42)
 - **Docker Hub**: [dmaldonadob](https://hub.docker.com/repositories/dmaldonadob)
  
 ---
