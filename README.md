@@ -41,7 +41,7 @@ The Airbnb of local experiences in Colombia. Hosts manage inventory, capacity, a
 - **Stack**: Django REST Framework · PostgreSQL · React + Vite · AWS EC2/S3 · Docker · Vercel
 - **Highlights**: Concurrent inventory management to prevent overbooking, async Mercado Pago webhook integration (auto-confirm reservations + email receipts), JWT via HttpOnly cookies (XSS/CSRF protection), SQL aggregation dashboards with revenue metrics and occupancy alerts, APScheduler for automatic slot cleanup.
  
-#### 🎓 [Rótalo](https://www.rotalo.xyz) — University Super-App
+#### 🎓 [Rótalo](https://www.rotalo.xyz) — University Super-App · [→ Technical Showcase](https://github.com/Gorossy/rotalo-showcase)
 Colombian university platform for schedule management, carpooling, and anonymous community walls. AI reads uploaded PDFs/images to extract class schedules and power peer matching.
  
 - **Stack**: FastAPI · PostgreSQL · Redis · Docker · AWS EC2 · Next.js · Vercel
