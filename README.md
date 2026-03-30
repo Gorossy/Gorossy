@@ -35,7 +35,7 @@ Welcome to my GitHub! I'm a Systems and Computer Engineer based in **Bogotá, Co
  
 ### 🌟 Projects
  
-#### 🎯 [Ucover](https://ucoverapp.com) — B2B2C Tourism Marketplace
+#### 🎯 [Ucover](https://ucoverapp.com) — B2B2C Tourism Marketplace · [→ Technical Showcase](https://github.com/Gorossy/ucover-showcase)
 The Airbnb of local experiences in Colombia. Hosts manage inventory, capacity, and revenue analytics through a SaaS dashboard while users discover and book experiences with guaranteed payments.
  
 - **Stack**: Django REST Framework · PostgreSQL · React + Vite · AWS EC2/S3 · Docker · Vercel
